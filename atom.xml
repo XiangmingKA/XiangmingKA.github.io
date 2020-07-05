@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiangmingka.github.io</id>
     <title>Xiangming&apos;s Blog</title>
-    <updated>2020-07-05T10:41:00.132Z</updated>
+    <updated>2020-07-05T10:55:04.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiangmingka.github.io"/>
     <link rel="self" href="https://xiangmingka.github.io/atom.xml"/>
@@ -16,8 +16,11 @@
         <link href="https://xiangmingka.github.io/post/rendering-in-unity-srp-foundamental/">
         </link>
         <updated>2020-07-05T10:11:29.000Z</updated>
-        <content type="html"><![CDATA[<p>SRP (Scriptable Render Pipeline)<br>
-<img src="https://xiangmingka.github.io/post-images/1593945031278.jpg" alt="" loading="lazy"></p>
+        <summary type="html"><![CDATA[<p>SRP (Scriptable Render Pipeline) is a highly customizable rendering pipeline in Unity that helps developers to take full control of the rendering process. It also lies the foundation of the HDRP (High Definition Render Pipeline) and LWRP (Lightweight Render Pipeline).</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>SRP (Scriptable Render Pipeline) is a highly customizable rendering pipeline in Unity that helps developers to take full control of the rendering process. It also lies the foundation of the HDRP (High Definition Render Pipeline) and LWRP (Lightweight Render Pipeline).</p>
+<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://xiangmingka.github.io/post-images/1593945031278.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
